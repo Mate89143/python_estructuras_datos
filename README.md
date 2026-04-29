@@ -1,4 +1,7 @@
-# python_estructuras_datos# Proyecto: Fundamentos de Python – Estructuras de Datos
+# Proyecto: Fundamentos de Python – Estructuras de Datos
+
+### Autor
+Mateo Úsuga Álvarez
 
 ## Descripción del proyecto
 
