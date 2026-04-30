@@ -71,21 +71,31 @@ Se usaron list, dict y set comprehension para transformar y filtrar datos de man
 
 ## Capturas de ejecución
 
+### Reto 1
+
 ![evidencia template](/images/Reto%201.png)
 
 La ejecución del reto 1 muestra el inventario final después de varias operaciones. Se actualizó el precio de "pan", se registró una venta de "manzana" reduciendo su cantidad, "leche" se mantuvo igual y se añadió el producto "huevos". El resultado se imprime recorriendo la lista con un ciclo for, demostrando cómo las listas permiten modificar y gestionar datos dinámicamente.
+
+### Reto 2
 
 ![evidencia template](/images/Reto%202.png)
 
 La ejecución del reto 2 muestra un catálogo de películas almacenado en una tupla de tuplas. Se imprime cada película usando desempaquetado en un ciclo for, luego se separa la primera película del resto con el operador *. También se filtran las películas de un director específico y se calculan estadísticas como puntuación mínima, máxima y promedio. Esto demuestra el uso de tuplas, desempaquetado y funciones que retornan múltiples valores.
 
+### Reto 3 
+
 ![evidencia template](/images/Reto%203.png)
 
 La ejecución del reto 3 muestra un reporte de ventas usando diccionarios. Se calculan los totales por región, se identifica la región con mayores ventas, se suman las ventas por trimestre y se obtienen los porcentajes de cada región. Esto demuestra el uso de diccionarios, iteración y cálculo de datos.
 
+### Reto 4
+
 ![evidencia template](/images/Reto%204.png)
 
 La ejecución del reto 4 muestra el uso de conjuntos para analizar productos y preferencias. Se obtiene el catálogo completo, los productos comunes y los exclusivos de cada tienda, además de verificar si hay elementos en común. También se comparan gustos de usuarios usando operaciones de conjuntos. Esto demuestra el uso de sets y sus operaciones básicas.
+
+### Reto 5
 
 ![evidencia template](/images/Reto%205.png)
 
